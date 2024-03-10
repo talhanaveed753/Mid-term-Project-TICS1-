@@ -14,11 +14,13 @@ To run this code, follow the steps outlined below: <br>
         python -m venv venv <br>
         .\venv\Scripts\activate <br>
 
-        Once done using this code, use 'deactivate' to deactivate the venv <br>
+Once done using this code, use 'deactivate' to deactivate the venv <br>
 
-## Step 3: Install fastAPI/uvicorn using the command 'pip install fastapi uvicorn' <br>
-        This should install all the required dependencies <br>
-        Alternatively, you can use 'pip install -r requirements.txt' <br>
+## Step 3: Install fastAPI/uvicorn <br>
+        pip install fastapi uvicorn
+
+This should install all the required dependencies <br>
+Alternatively, you can use 'pip install -r requirements.txt' <br>
 
 Use 'python -m pip list' to view all the currently installed dependencies <br>
 You can view requirements.txt to see all required dependencies <br>
