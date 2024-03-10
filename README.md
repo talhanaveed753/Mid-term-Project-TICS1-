@@ -1,6 +1,8 @@
 # Mid-term-Project-TICS1-
 Mid-term Project for Topics in Computer Science 1
 
+https://github.com/talhanaveed753/Mid-term-Project-TICS1-/blob/main/expenseDEMO.mp4
+
 To run this code, follow the steps outlined below:
 
 Step 1: Ensure that the latest version of python is installed.
