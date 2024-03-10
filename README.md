@@ -1,7 +1,10 @@
 # Mid-term-Project-TICS1-
 Mid-term Project for Topics in Computer Science 1
 
-[![Watch the video]([https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY](https://github.com/talhanaveed753/Mid-term-Project-TICS1-/blob/main/expenseDEMO.mp4)
+This app is a nice convinient way to track day-to-day expenses and help budget.
+Below is a short demo on how this app can be used:
+
+https://youtu.be/vt5fpE0bzSY](https://github.com/talhanaveed753/Mid-term-Project-TICS1-/blob/main/expenseDEMO.mp4
 
 To run this code, follow the steps outlined below:
 
