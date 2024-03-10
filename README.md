@@ -11,10 +11,9 @@ To run this code, follow the steps outlined below: <br>
 ## Step 1: Ensure that the latest version of python is installed. <br>
 
 ## Step 2: Create and activate a virtual python environment using the following commands: <br>
-        ```powershell
         python -m venv venv <br>
         .\venv\Scripts\activate <br>
-        ```
+
         Once done using this code, use 'deactivate' to deactivate the venv <br>
 
 ## Step 3: Install fastAPI/uvicorn using the command 'pip install fastapi uvicorn' <br>
